@@ -1,0 +1,43 @@
+#header {
+    background-color: black;
+}
+
+#logo {
+    text-align: center;
+}
+
+#logo>img {
+    width: 26%;
+}
+
+h1 {
+    font-family: serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-img-top {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.card-title,
+.card-text {
+    text-align: center;
+    font-family: serif;
+    font-size: 30px;
+}
+
+#footer {
+    background-color: #1a1a1a;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    padding: 20px;
+}
+
+span>a {
+    font-size: 24px;
+    color: white;
+}
